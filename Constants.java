@@ -21,8 +21,6 @@ class Constants {
     /**
      * This class contains a set of error messages used throughout the program.
      * These messages provide feedback for various types of invalid input or conditions.
-     * Owner: Tanuj Yadav
-     * Date: 23/09/2024
      */
     public static class ErrorMessages {
         public static final String ERROR_BASE_RANGE = "Error: Base must be between 2 and 16.";
